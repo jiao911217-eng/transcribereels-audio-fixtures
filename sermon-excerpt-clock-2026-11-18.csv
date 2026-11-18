@@ -1,0 +1,5 @@
+excerpt,excerpt_start_seconds,excerpt_end_seconds,cue_offset_seconds,source_cue_calculated_seconds,source_cue_expected_seconds,result,spoken_reference
+A,760,1140,368,1128,1128,shared,Leave a place for someone you haven't met
+B,1120,1500,8,1128,1128,shared,Leave a place for someone you haven't met
+B,1120,1500,27,1147,1147,unique,Then ask who is missing
+A,760,1140,378,1138,1128,mismatch,Leave a place for someone you haven't met
